@@ -17,15 +17,15 @@ const Details = () => {
     }, [id]);
 
     return (
-        <div>
+        <div className='px-3'>
             {data ? (
                 <div>
-                    <div className='grid grid-cols-2 mt-10'>
+                    <div className='grid gap-4 md:grid-cols-2 mt-10'>
                     {/* profile */}
-                    <div className="card w-96 bg-base-100 shadow-xl" data-aos="flip-left"
-     data-aos-easing="ease-out-cubic"
-     data-aos-duration="2000">
-                    <figure><img src={data.instructorProfilePicture} alt="Shoes" /></figure>
+                    <div className="card w-full bg-base-100 shadow-xl" data-aos="flip-left"
+                    data-aos-easing="ease-out-cubic"
+                        data-aos-duration="2000">
+                    <figure><img className='w-full' src={data.instructorProfilePicture} alt="Shoes" /></figure>
                     <div className="card-body">
                         <h2 className="card-title text-2xl font-bold">{data.instructorName}</h2>
                         <p className='font-semibold'>{data.category}</p>
@@ -35,7 +35,7 @@ const Details = () => {
 
                     <div>
                     <div className="card lg:card-side bg-base-100 shadow-xl">
-                <figure><img className='w-72 h-56 rounded-lg' src={data.image} alt="{data.category}"/></figure>
+                <figure><img className='w-72 h-full rounded-lg' src={data.image} alt="{data.category}"/></figure>
                 <div className="card-body">
                     <h2 className="card-title">{data.category}</h2>
                     <p>Cost:{data.price}$</p>

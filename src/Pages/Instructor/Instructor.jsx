@@ -13,7 +13,7 @@ const Instructor = ({ mentor }) => {
 
     return (
         <div className='px-5'>
-            <div  className="card w-96 bg-base-100 pt-3 shadow-xl">
+            <div  className="card w-full bg-base-100 pt-3 shadow-xl">
                 <figure><img style={cardTitleStyle} className='w-full' src={instructorProfilePicture} alt="" /></figure>
                 <div className="card-body">
                     <h2 className="card-title font-medium">{instructorName}</h2>

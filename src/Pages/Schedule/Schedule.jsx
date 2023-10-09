@@ -6,7 +6,8 @@ const Schedule = () => {
             <h2 className='text-5xl font-bold text-black text-center'>Our Course Schedule</h2>
             {/* CARD 1 */}
             
-            <div className='grid grid-cols-3 gap-6 mt-6'>
+            <div className='flex justify-center'>
+            <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6'>
             <div className="card px-5 py-4 leading-8 bg-gradient-to-t from-red-50 to-orange-50 w-96 pt-6 bg-base-100 shadow-xl">
             <div>
             <h4 className='text-xl font-semibold'>Sunday:</h4>
@@ -74,6 +75,7 @@ const Schedule = () => {
                     <li>Cybersecurity: 1:30 p.m. - 5:30 p.m.</li>
                     <li>Cloud Computing: 6:00 p.m. - 10:00 p.m.</li>
                 </ul>
+            </div>
             </div>
             </div>
             </div>

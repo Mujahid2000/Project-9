@@ -6,7 +6,7 @@ const Service = ({getService}) => {
     const {id, duration, name, detail, price, image} =  getService || {}
     return (
         <div>
-                <div className="card card-compact w-96 bg-base-100 shadow-xl" data-aos="flip-left"
+                <div className="card card-compact bg-base-100 shadow-xl" data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2000">
     <figure><img className=' h-64' src={image} alt="Shoes" /></figure>

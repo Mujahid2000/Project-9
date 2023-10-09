@@ -3,8 +3,8 @@ import Mapset from '../Map/Mapset';
 
 const Contact = () => {
     return (
-        <div>
-            <div className='grid grid-cols-3 mt-10'>
+        <div className='flex justify-center'>
+            <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-5 mt-10'>
             <div >
             <div className="card bg-gradient-to-t from-red-50 to-orange-50 w-96 pt-6 bg-base-100 shadow-xl">
             
