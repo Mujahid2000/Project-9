@@ -1,0 +1,158 @@
+[
+{
+        "id": 1,
+        "name": "Web Development Course",
+        "price": 49.99,
+        "image": "https://i.ibb.co/8rYpWxs/Web-devepoment.jpg",
+        "detail": "Master the art of web development with this comprehensive course.",
+        "details": "Enroll in our Web Development Course to become a skilled web developer. In this comprehensive program, you'll dive deep into HTML, CSS, JavaScript, and more. Build real-world projects, learn responsive design, and understand modern web development practices. Kickstart your career in web development with hands-on experience and expert guidance.",
+        "duration": "12 weeks",
+        "instructorName": "John Doe",
+        "instructorProfilePicture": "https://i.ibb.co/NnF0Nnn/instructor01.png",
+        "instructorExperience": "John Doe is a seasoned web developer with over 10 years of experience. He has worked on numerous web projects, including e-commerce sites and web applications. John is passionate about teaching and helping others become proficient in web development.",
+        "joined": 195,
+        "language": "English",
+        "category": "Web Development",
+        "aboutLearn": {
+        "topics": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Responsive Design"
+        ],
+        "projects": "Build real-world projects",
+        "handsOnExperience": "Gain hands-on experience in web development."
+        },
+        "colorCode": "#0074D9"
+},
+{
+        "id": 2,
+        "name": "Graphics Design Workshop",
+        "price": 79.99,
+        "image": "https://i.ibb.co/7jdQ27p/Graphics-Design.jpg",
+        "detail": "Unlock your creativity with our Graphics Design Workshop.",
+        "details": "Join our Graphics Design Workshop to explore the world of visual art and design. Develop your creative skills while diving into graphic design principles, color theory, and typography. Master Adobe Creative Suite tools and create stunning visuals. Ideal for beginners and enthusiasts looking to express themselves through design.",
+        "duration": "8 weeks",
+        "instructorName": "Jane Smith",
+        "instructorProfilePicture": "https://i.ibb.co/myjddqQ/instructor03.png",
+        "instructorExperience": "Jane Smith is an experienced graphic designer with a background in both print and digital design. She has worked with various clients, creating branding materials, posters, and digital graphics. Jane is dedicated to helping others discover their creative potential in design.",
+        "joined": 177,
+        "language": "English",
+        "category": "Graphic Design",
+        "aboutLearn": {
+        "topics": [
+        "Graphic Design Principles",
+        "Color Theory",
+        "Typography",
+        "Adobe Creative Suite"
+        ],
+        "projects": "Create stunning visuals",
+        "handsOnExperience": "Express your creativity through design."
+        },
+        "colorCode": "#FF4136"
+},
+{
+        "id": 3,
+        "name": "Mobile App Development Bootcamp",
+        "price": 599.99,
+        "image": "https://i.ibb.co/dgS11dH/Mobile-app.jpg",
+        "detail": "Join our Mobile App Development Bootcamp and build apps for iOS and Android.",
+        "details": "Embark on a journey in mobile app development with our comprehensive Bootcamp. Learn Swift and Java programming languages, app design principles, and API integration. Develop apps from scratch and launch them on app stores. This intensive program is your path to becoming a professional mobile app developer.",
+        "duration": "10 weeks",
+        "instructorName": "David Johnson",
+        "instructorProfilePicture": "https://i.ibb.co/6nTPDc5/instructor06.png",
+        "instructorExperience": "David Johnson is a seasoned mobile app developer with a track record of creating successful apps for both iOS and Android platforms. He has a passion for teaching and sharing his expertise with aspiring app developers.David Johnson is a seasoned mobile app developer with a track record of creating successful apps for both iOS and Android platforms. He has a passion for teaching and sharing his expertise with aspiring app developers.David Johnson excels in iOS and Android app development.",
+        "joined": 168,
+        "language": "English",
+        "category": "Mobile App Development",
+        "aboutLearn": {
+        "topics": [
+        "Swift",
+        "Java",
+        "App Design",
+        "API Integration"
+        ],
+        "projects": "Develop apps from scratch",
+        "handsOnExperience": "Launch apps on app stores."
+        },
+        "colorCode": "#2ECC40"
+},
+{
+        "id": 4,
+        "name": "Data Science Certification",
+        "price": 199.99,
+        "image": "https://i.ibb.co/WBYRPLC/data.jpg",
+        "detail": "Become a data scientist with our comprehensive certification program.",
+        "details": "Unlock the world of data science with our comprehensive certification program. Master data analysis, machine learning, and big data technologies. Dive into data visualization and predictive modeling. Analyze real-world datasets and solve complex problems. This program equips you with the skills to make data-driven decisions and thrive in the data science field.",
+        "duration": "16 weeks",
+        "instructorName": "Emily Brown",
+        "instructorProfilePicture": "https://i.ibb.co/VN3KPHd/instructor04.png",
+        "instructorExperience": "Emily Brown is a data scientist with a background in statistical analysis and machine learning. She has worked on projects ranging from predictive analytics to natural language processing. Emily is committed to helping others become proficient in data science.",
+        "joined": 1650,
+        "language": "English",
+        "category": "Data Science",
+        "aboutLearn": {
+        "topics": [
+        "Data Analysis",
+        "Machine Learning",
+        "Data Visualization",
+        "Predictive Modeling"
+        ],
+        "projects": "Analyze real-world datasets",
+        "handsOnExperience": "Make data-driven decisions."
+        },
+        "colorCode": "#FF851B"
+},
+{
+        "id": 5,
+        "name": "Cybersecurity Essentials",
+        "price": 39.99,
+        "image": "https://i.ibb.co/qdn1b34/Cyber.jpg",
+        "detail": "Protect digital assets with our Cybersecurity Essentials course.",
+        "details": "Enhance your cybersecurity skills with our Cybersecurity Essentials course. Learn ethical hacking, network security, and threat detection strategies. Explore penetration testing and vulnerability assessment. Secure systems, networks, and data from cyber threats. This course is your gateway to a career in cybersecurity, where you'll play a crucial role in protecting digital assets.",
+        "duration": "6 weeks",
+        "instructorName": "Michael Wilson",
+        "instructorProfilePicture": "https://i.ibb.co/p3FykCs/instructor08.png",
+        "instructorExperience": "Michael Wilson is a cybersecurity expert with extensive experience in securing networks and systems. He has worked in both offensive and defensive cybersecurity roles. Michael is passionate about sharing his knowledge and helping others enter the field of cybersecurity.",
+        "joined": 165,
+        "language": "English",
+        "category": "Cybersecurity",
+        "aboutLearn": {
+        "topics": [
+        "Ethical Hacking",
+        "Network Security",
+        "Penetration Testing",
+        "Vulnerability Assessment"
+        ],
+        "projects": "Secure systems and data",
+        "handsOnExperience": "Protect against cyber threats."
+        },
+        "colorCode": "#0074D9"
+},
+{
+        "id": 6,
+        "name": "Cloud Computing Masterclass",
+        "price": 79.99,
+        "image": "https://i.ibb.co/Nt26383/Cloud.jpg",
+        "detail": "Embrace the cloud with our Cloud Computing Masterclass.",
+        "details": "Embrace the power of the cloud with our Cloud Computing Masterclass. Dive into AWS, Azure, and Google Cloud platforms. Learn to deploy and manage scalable cloud solutions. Explore cloud architecture, serverless computing, and data storage. Whether you're an IT professional or looking to advance your skills, this course empowers you to harness the full potential of cloud technology.",
+        "duration": "14 weeks",
+        "instructorName": "Mark Stomer",
+        "instructorProfilePicture": "https://i.ibb.co/k6PmWBY/instructor09.png",
+        "instructorExperience": "Mark Stomer is a cloud computing expert with a background in cloud architecture and DevOps practices. She has implemented cloud solutions for organizations of all sizes. Sarah is dedicated to helping individuals and businesses leverage the cloud for success.He is cloud computing expert.",
+        "joined": 165,
+        "language": "English",
+        "category": "Cloud Computing",
+        "aboutLearn": {
+        "topics": [
+        "Cloud Architecture",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+        ],
+        "projects": "Deploy and manage cloud solutions",
+        "handsOnExperience": "Harness the power of cloud technology."
+        },
+        "colorCode": "#FF4136"
+}
+]
