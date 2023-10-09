@@ -7,8 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-<!-- live link: https://training-program-7b72f.web.app/ -->
-
+https://training-program-7b72f.web.app/login
 
 1. I have created a blog page which has some information about the organization.
 2. A section has been created within the home page for comments from students about the institution.
